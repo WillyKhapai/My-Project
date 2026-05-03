@@ -1,0 +1,6 @@
+{
+  "name": "HydraGuard: Smart Groundwater Monitor",
+  "description": "A real-time groundwater level simulation and flood warning system with visual indicators and environmental controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
